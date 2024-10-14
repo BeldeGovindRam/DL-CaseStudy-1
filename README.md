@@ -1,5 +1,5 @@
 # DL-CaseStudy-1
-
+Video link fro image classification: https://drive.google.com/file/d/15i1I13cexsU0BHx20rnLZ3JocaQTbjgB/view?usp=sharing
 From the feedback we received from the last class We added hte comments and detailed inferences for both files and we modified the Parking validation code and pushed the file to git main branch. you can find the file here and also the Flask and streamlit code files and the GUI links here
 
 The below image is the GUI for the image classification model where we use Flask to deploy our model and stream lit for user interface to select the image and check what the class the image belongs to and the prediction confidence. In the below image we can see the predicted class is inside and confidence is 99%.
