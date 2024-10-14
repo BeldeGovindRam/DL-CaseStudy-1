@@ -10,5 +10,8 @@ The below image is the GUI for the image classification model where we use Flask
 
 ![Screenshot (96) 1](https://github.com/user-attachments/assets/c93507ee-06f0-4d0a-b9ad-329caeaaf037)
 
+![image](https://github.com/user-attachments/assets/0d4d660a-2477-4f2b-9314-368c880e0904)
+
+
 
 
